@@ -1,5 +1,5 @@
 {
-  "vct": "",
+  "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/extends_vct.json",
   "name": "VC",
   "description": "vc",
   "extends": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/base_vct.json",
