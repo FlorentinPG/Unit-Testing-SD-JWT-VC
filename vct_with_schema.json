@@ -1,5 +1,5 @@
 {
-  "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/base_vct.json",
+  "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/vct_with_schema.json",
   "name": "Base VC",
   "description": "Base Desc",
   "schema": {
