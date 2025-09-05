@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "vct": {
+      "type": "string"
+    },
+    "iss": {
+      "type": "string"
+    },
+    "nbf": {
+      "type": "number"
+    },
+    "exp": {
+      "type": "number"
+    },
+    "iat": {
+      "type": "number"
+    },
+    "sub": {
+      "type": "string"
+    },
+    "trustAnchor": {
+      "type": "string"
+    },
+    "accreditedScope": {
+      "enum": ["issuance", "verification"]
+    },
+    "accreditedFor": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ]
+    },
+    "accreditedBy": {
+      "type": "string"
+    },
+    "status": {
+      "type": "object"
+    }
+  },
+  "required": ["iss", "vct", "sub", "trustAnchor"]
+}
