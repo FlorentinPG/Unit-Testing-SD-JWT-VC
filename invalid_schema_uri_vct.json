@@ -2,5 +2,5 @@
   "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/invalid_schema_uri_vct.json",
   "name": "Base VC",
   "description": "Base Desc",
-  "schema_uri": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/bad.json",
+  "schema_uri": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/bad.json"
 }
