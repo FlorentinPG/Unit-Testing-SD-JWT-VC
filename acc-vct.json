@@ -1,5 +1,5 @@
 {
-  "vct": "https://example.com/isbe/accreditation",
+  "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/acc-vct.json",
   "name": "Acreditación",
   "description": "Modelo de acreditación",
   "schema_uri": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/acc_schema.json",
