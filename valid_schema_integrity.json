@@ -1,0 +1,7 @@
+{
+  "vct": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/invalid_schema_integrity.json",
+  "name": "Base VC",
+  "description": "Base Desc",
+  "schema_uri": "https://raw.githubusercontent.com/FlorentinPG/Unit-Testing-SD-JWT-VC/refs/heads/main/vc_base_schema.json",
+  "schema_uri#integrity": "sha256-QLkSIUYCKk99eYf6DN6r/3WF9zElnjt3d4YQFAw4/Wg="
+}
